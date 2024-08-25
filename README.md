@@ -3,4 +3,4 @@
 
 Estou estudando como usar meu repositório. 
 
-Clique <a href="a href="https://murilodev0.github.io/HTML-CSS/Exerc%C3%ADcios/Ex011/">aqui</a> para acessar meus exercícios.<
+Clique <a href="https://murilodev0.github.io/HTML-CSS/Exerc%C3%ADcios/Ex011/">aqui</a> para acessar meus exercícios.
