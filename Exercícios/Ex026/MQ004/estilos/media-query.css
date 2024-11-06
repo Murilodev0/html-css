@@ -42,7 +42,7 @@ TV's: 1201px and up
     body{
         background-image: url('../imagens/back-phone.jpg');
         }
-        main > img#phone {display: block; }Acessando via smartphone
+        main > img#phone {display: block; }
 }
 /* Tablet */
 @media screen and (min-width: 768px) and (max-width:992px) {
